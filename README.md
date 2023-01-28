@@ -1,0 +1,1 @@
+Este é um projeto realizado com o auxilio de um dos cursos da Alura, que tem como objetivo guardar itens de viagem em uma mochila e assim facilitar o usuario quando ele for fazer as malas. 

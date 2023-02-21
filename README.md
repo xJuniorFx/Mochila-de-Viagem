@@ -7,7 +7,7 @@
 ## Oque eu aprendi
 <ul>
     <li>Interagir com o Local Storage: pegando itens, os removendo e limpando o Local Storage</li>
-    <li>trabalhar ainda mais com arrays</li>
+    <li>Trabalhar ainda mais com arrays</li>
     <li>Criação de elementos usando o javascript</li>
     <li>Assim como colocando classes e conteudos</li>
 </ul>
